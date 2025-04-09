@@ -1,4 +1,4 @@
-# Tasks App
+# Dice Roller
 
 A simple practice app built during Google’s **Android Basics with Compose** course (Unit 2, Pathway 2). This app demonstrate how to use Button compose to build an interactive app.
 
